@@ -1,2 +1,5 @@
-# quantum_ml_fundamentals
-Studying to start a learning quantum computing 
+# QUANTUM ML FUNDAMENTALS
+Studies to continue learning quantum computing.
+
+# TOOLS
+- Python (Matplotlib, NumPy...)
